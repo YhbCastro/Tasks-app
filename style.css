@@ -1,0 +1,939 @@
+.desktop {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .desktop .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1440px;
+    height: 6237px;
+    position: relative;
+  }
+  
+  .desktop .overlap {
+    position: absolute;
+    width: 1440px;
+    height: 387px;
+    top: 0;
+    left: 0;
+    background-color: #e7cbfd;
+  }
+  
+  .desktop .flexcontainer {
+    gap: 1px;
+    width: 243px;
+    height: 120px;
+    top: 153px;
+    left: 598px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: absolute;
+  }
+  
+  .desktop .text {
+    position: relative;
+    align-self: stretch;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+  }
+  
+  .desktop .text-wrapper-2 {
+    position: absolute;
+    top: 52px;
+    left: 607px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    color: #000000;
+    font-size: 48px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .overlap-group {
+    position: absolute;
+    width: 1440px;
+    height: 387px;
+    top: 387px;
+    left: 0;
+    background-color: #ffffff;
+  }
+  
+  .desktop .flexcontainer-2 {
+    gap: 1.5px;
+    width: 508px;
+    height: 140px;
+    top: 123px;
+    left: 803px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: absolute;
+  }
+  
+  .desktop .span-wrapper {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    text-align: center;
+    position: relative;
+    align-self: stretch;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .span {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 25px;   
+    margin-bottom: 30px;
+  }
+  
+  .desktop .p {
+    position: absolute;
+    width: 508px;
+    top: 129px;
+    left: 119px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 25px;   
+    margin-bottom: 30px;
+  }
+  
+  .desktop .text-wrapper-3 {
+    position: absolute;
+    top: 73px;
+    left: 1019px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    color: #000000;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-4 {
+    position: absolute;
+    top: 73px;
+    left: 298px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    color: #000000;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .overlap-group-2 {
+    position: absolute;
+    width: 1440px;
+    height: 505px;
+    top: 774px;
+    left: 0;
+    background-color: #e7cbfd;
+  }
+  
+  .desktop .text-wrapper-5 {
+    position: absolute;
+    width: 634px;
+    top: 366px;
+    left: 403px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-6 {
+    position: absolute;
+    width: 784px;
+    top: 133px;
+    left: 328px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-7 {
+    position: absolute;
+    top: 39px;
+    left: 658px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    color: #000000;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-8 {
+    position: absolute;
+    width: 479px;
+    top: 252px;
+    left: 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-9 {
+    position: absolute;
+    width: 458px;
+    top: 252px;
+    left: 491px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-10 {
+    position: absolute;
+    width: 383px;
+    top: 258px;
+    left: 1004px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .overlap-2 {
+    position: absolute;
+    width: 1440px;
+    height: 1244px;
+    top: 1250px;
+    left: 0;
+    background-color: #ffffff;
+  }
+  
+  .desktop .text-wrapper-11 {
+    position: absolute;
+    top: 21px;
+    left: 553px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    color: #000000;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-12 {
+    position: absolute;
+    width: 668px;
+    top: 636px;
+    left: 386px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .flexcontainer-3 {
+    gap: 0.5px;
+    width: 850px;
+    height: 415px;
+    top: 754px;
+    left: 295px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: absolute;
+  }
+  
+  .desktop .placeholder-view {
+    position: absolute;
+    width: 500px;
+    height: 447px;
+    top: 119px;
+    left: 470px;
+    object-fit: cover;
+  }
+  
+  .desktop .overlap-3 {
+    position: absolute;
+    width: 1440px;
+    height: 586px;
+    top: 2523px;
+    left: -1px;
+    background-color: #e7cbfd;
+  }
+  
+  .desktop .text-wrapper-13 {
+    position: absolute;
+    top: 39px;
+    left: 529px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    color: #000000;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-14 {
+    position: absolute;
+    top: 79px;
+    left: 323px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    color: #000000;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-15 {
+    position: absolute;
+    top: 79px;
+    left: 981px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    color: #000000;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .overlap-4 {
+    position: absolute;
+    width: 1134px;
+    height: 371px;
+    top: 158px;
+    left: 199px;
+  }
+  
+  .desktop .overlap-5 {
+    position: absolute;
+    width: 1134px;
+    height: 371px;
+    top: 0;
+    left: 0;
+  }
+  
+  .desktop .flexcontainer-4 {
+    gap: 0;
+    width: 400px;
+    height: 367px;
+    top: 0px;
+    left: 46px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: absolute;
+  }
+  
+  .desktop .text-2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    position: relative;
+    align-self: stretch;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .flexcontainer-5 {
+    gap: 0;
+    width: 538px;
+    height: 367px;
+    top: 0;
+    left: 596px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: absolute;
+  }
+  
+  .desktop .line {
+    top: 297px;
+    left: 0;
+    position: absolute;
+    width: 1123px;
+    height: 1px;
+    object-fit: cover;
+  }
+  
+  .desktop .img {
+    top: 211px;
+    left: 0;
+    position: absolute;
+    width: 1123px;
+    height: 1px;
+    object-fit: cover;
+  }
+  
+  .desktop .line-2 {
+    top: 134px;
+    left: 0;
+    position: absolute;
+    width: 1123px;
+    height: 1px;
+    object-fit: cover;
+  }
+  
+  .desktop .line-3 {
+    top: 68px;
+    left: 0;
+    position: absolute;
+    width: 1123px;
+    height: 1px;
+    object-fit: cover;
+  }
+  
+  .desktop .close {
+    top: 5px;
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .desktop .close-fill-wght {
+    top: 308px;
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .desktop .close-2 {
+    top: 230px;
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .desktop .close-3 {
+    top: 155px;
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .desktop .close-4 {
+    top: 80px;
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .desktop .check-circle {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 5px;
+    left: 553px;
+    object-fit: cover;
+  }
+  
+  .desktop .check-circle-fill {
+    top: 308px;
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 553px;
+    object-fit: cover;
+  }
+  
+  .desktop .check-circle-2 {
+    top: 230px;
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 553px;
+    object-fit: cover;
+  }
+  
+  .desktop .check-circle-3 {
+    top: 155px;
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 553px;
+    object-fit: cover;
+  }
+  
+  .desktop .check-circle-4 {
+    top: 80px;
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 553px;
+    object-fit: cover;
+  }
+  
+  .desktop .line-4 {
+    top: 146px;
+    left: 199px;
+    position: absolute;
+    width: 1123px;
+    height: 1px;
+    object-fit: cover;
+  }
+  
+  .desktop .line-5 {
+    top: 529px;
+    left: 198px;
+    position: absolute;
+    width: 1123px;
+    height: 1px;
+    object-fit: cover;
+  }
+  
+  .desktop .overlap-6 {
+    position: absolute;
+    width: 1440px;
+    height: 514px;
+    top: 3109px;
+    left: 0;
+  }
+  
+  .desktop .rectangle {
+    height: 504px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    position: absolute;
+    width: 1440px;
+  }
+  
+  .desktop .text-wrapper-16 {
+    position: absolute;
+    top: 13px;
+    left: 585px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    color: #000000;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .a-part-time-working {
+    position: absolute;
+    width: 455px;
+    top: 400px;
+    left: 216px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .flexcontainer-6 {
+    gap: 1.5px;
+    width: 180px;
+    height: 50px;
+    top: 303px;
+    left: 353px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: absolute;
+  }
+  
+  .desktop .text-wrapper-17 {
+    position: absolute;
+    top: 271px;
+    left: 420px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .download {
+    left: 364px;
+    position: absolute;
+    width: 158px;
+    height: 146px;
+    top: 114px;
+    object-fit: cover;
+  }
+  
+  .desktop .download-2 {
+    left: 935px;
+    position: absolute;
+    width: 158px;
+    height: 146px;
+    top: 114px;
+    object-fit: cover;
+  }
+  
+  .desktop .text-wrapper-18 {
+    position: absolute;
+    top: 271px;
+    left: 979px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .flexcontainer-7 {
+    gap: 1.5px;
+    width: 241px;
+    height: 50px;
+    top: 303px;
+    left: 893px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: absolute;
+  }
+  
+  .desktop .text-wrapper-19 {
+    position: absolute;
+    width: 455px;
+    top: 400px;
+    left: 786px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .overlap-7 {
+    position: absolute;
+    width: 1441px;
+    height: 1117px;
+    top: 3623px;
+    left: -1px;
+  }
+  
+  .desktop .rectangle-2 {
+    height: 678px;
+    top: 1px;
+    left: 0;
+    background-color: #e7cbfd;
+    position: absolute;
+    width: 1440px;
+  }
+  
+  .desktop .text-wrapper-20 {
+    position: absolute;
+    top: 25px;
+    left: 627px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    color: #000000;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-21 {
+    position: absolute;
+    width: 1019px;
+    top: 79px;
+    left: 211px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 25px;   
+    margin-bottom: 30px;
+  }
+  
+  .desktop .rectangle-3 {
+    height: 444px;
+    top: 673px;
+    left: 1px;
+    background-color: #ffffff;
+    position: absolute;
+    width: 1440px;
+  }
+  
+  .desktop .text-wrapper-22 {
+    position: absolute;
+    top: 684px;
+    left: 620px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    color: #000000;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-23 {
+    position: absolute;
+    width: 795px;
+    top: 761px;
+    left: 319px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .screenshot {
+    position: absolute;
+    width: 560px;
+    height: 436px;
+    top: 200px;
+    left: 441px;
+    object-fit: cover;
+  }
+  
+  .desktop .colors {
+    position: absolute;
+    width: 324px;
+    height: 202px;
+    top: 857px;
+    left: 117px;
+    object-fit: cover;
+  }
+  
+  .desktop .buttons {
+    position: absolute;
+    width: 324px;
+    height: 202px;
+    top: 857px;
+    left: 559px;
+    object-fit: cover;
+  }
+  
+  .desktop .icons {
+    position: absolute;
+    width: 324px;
+    height: 202px;
+    top: 857px;
+    left: 1001px;
+    object-fit: cover;
+  }
+  
+  .desktop .overlap-8 {
+    position: absolute;
+    width: 1440px;
+    height: 813px;
+    top: 4740px;
+    left: 0;
+    background-color: #e7cbfd;
+  }
+  
+  .desktop .text-wrapper-24 {
+    position: absolute;
+    top: 57px;
+    left: 613px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    color: #000000;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .flexcontainer-8 {
+    gap: 1.5px;
+    width: 1206px;
+    height: 219px;
+    top: 115px;
+    left: 105px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: absolute;
+  }
+  
+  .desktop .dashboard {
+    position: absolute;
+    width: 156px;
+    height: 339px;
+    top: 425px;
+    left: 448px;
+    object-fit: cover;
+  }
+  
+  .desktop .daily {
+    position: absolute;
+    width: 156px;
+    height: 337px;
+    top: 425px;
+    left: 637px;
+    object-fit: cover;
+  }
+  
+  .desktop .household-with-menu {
+    position: absolute;
+    width: 156px;
+    height: 341px;
+    top: 425px;
+    left: 65px;
+    object-fit: cover;
+  }
+  
+  .desktop .household {
+    position: absolute;
+    width: 156px;
+    height: 343px;
+    top: 425px;
+    left: 254px;
+    object-fit: cover;
+  }
+  
+  .desktop .house-tasks {
+    position: absolute;
+    width: 156px;
+    height: 339px;
+    top: 425px;
+    left: 831px;
+    object-fit: cover;
+  }
+  
+  .desktop .calendar {
+    position: absolute;
+    width: 156px;
+    height: 340px;
+    top: 426px;
+    left: 1025px;
+    object-fit: cover;
+  }
+  
+  .desktop .rewards {
+    position: absolute;
+    width: 156px;
+    height: 338px;
+    top: 428px;
+    left: 1219px;
+    object-fit: cover;
+  }
+  
+  .desktop .overlap-9 {
+    position: absolute;
+    width: 1440px;
+    height: 684px;
+    top: 5553px;
+    left: 0;
+    background-color: #ffffff;
+  }
+  
+  .desktop .text-wrapper-25 {
+    position: absolute;
+    top: 36px;
+    left: 627px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    color: #000000;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .flexcontainer-9 {
+    gap: 20px;
+    width: 755px;
+    height: 260px;
+    top: 115px;
+    left: 342px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: absolute;
+  }
+  
+  .desktop .text-3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    text-align: center;
+    position: relative;
+    align-self: stretch;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-26 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 25px;   
+    margin-bottom: 30px;
+  }
+  
