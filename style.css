@@ -38,7 +38,7 @@
   .desktop .text {
     position: relative;
     align-self: stretch;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Varela Round';
     font-weight: 400;
     color: #000000;
     font-size: 20px;
@@ -48,7 +48,7 @@
   }
   
   .desktop .text-wrapper {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Varela Round';
     font-weight: 400;
     color: #000000;
     font-size: 20px;
@@ -59,7 +59,7 @@
     position: absolute;
     top: 52px;
     left: 607px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Varela Round';
     font-weight: 500;
     color: #000000;
     font-size: 48px;
@@ -90,7 +90,7 @@
   }
   
   .desktop .span-wrapper {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Varela Round';
     font-weight: 400;
     text-align: center;
     position: relative;
@@ -102,7 +102,7 @@
   }
   
   .desktop .span {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Varela Round';
     font-weight: 400;
     color: #000000;
     font-size: 16px;
@@ -116,7 +116,7 @@
     width: 508px;
     top: 129px;
     left: 119px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Varela Round';
     font-weight: 400;
     color: #000000;
     font-size: 16px;
@@ -130,7 +130,7 @@
     position: absolute;
     top: 73px;
     left: 1019px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Varela Round';
     font-weight: 500;
     color: #000000;
     font-size: 24px;
@@ -143,7 +143,7 @@
     position: absolute;
     top: 73px;
     left: 298px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Varela Round';
     font-weight: 500;
     color: #000000;
     font-size: 24px;
@@ -166,7 +166,7 @@
     width: 634px;
     top: 366px;
     left: 403px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Varela Round';
     font-weight: 400;
     color: #000000;
     font-size: 16px;
@@ -180,7 +180,7 @@
     width: 784px;
     top: 133px;
     left: 328px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Varela Round';
     font-weight: 400;
     color: #000000;
     font-size: 16px;
@@ -193,7 +193,7 @@
     position: absolute;
     top: 39px;
     left: 658px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Varela Round';
     font-weight: 500;
     color: #000000;
     font-size: 36px;
@@ -207,7 +207,7 @@
     width: 479px;
     top: 252px;
     left: 0;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Varela Round';
     font-weight: 400;
     color: #000000;
     font-size: 16px;
@@ -221,7 +221,7 @@
     width: 458px;
     top: 252px;
     left: 491px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Varela Round';
     font-weight: 400;
     color: #000000;
     font-size: 16px;
@@ -235,7 +235,7 @@
     width: 383px;
     top: 258px;
     left: 1004px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Varela Round';
     font-weight: 400;
     color: #000000;
     font-size: 16px;
@@ -257,7 +257,7 @@
     position: absolute;
     top: 21px;
     left: 553px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Varela Round';
     font-weight: 500;
     color: #000000;
     font-size: 36px;
@@ -270,7 +270,7 @@
     width: 668px;
     top: 636px;
     left: 386px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Varela Round';
     font-weight: 400;
     color: #000000;
     font-size: 16px;
@@ -304,7 +304,7 @@
     position: absolute;
     width: 1440px;
     height: 586px;
-    top: 2523px;
+    top: 2550px;
     left: -1px;
     background-color: #e7cbfd;
   }
@@ -313,7 +313,7 @@
     position: absolute;
     top: 39px;
     left: 529px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Varela Round';
     font-weight: 500;
     color: #000000;
     font-size: 36px;
@@ -326,7 +326,7 @@
     position: absolute;
     top: 79px;
     left: 323px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Varela Round';
     font-weight: 500;
     color: #000000;
     font-size: 24px;
@@ -339,7 +339,7 @@
     position: absolute;
     top: 79px;
     left: 981px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Varela Round';
     font-weight: 500;
     color: #000000;
     font-size: 24px;
@@ -377,7 +377,7 @@
   }
   
   .desktop .text-2 {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Varela Round';
     font-weight: 400;
     position: relative;
     align-self: stretch;
@@ -564,7 +564,7 @@
     position: absolute;
     top: 13px;
     left: 585px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Varela Round';
     font-weight: 500;
     color: #000000;
     font-size: 36px;
@@ -578,7 +578,7 @@
     width: 455px;
     top: 400px;
     left: 216px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Varela Round';
     font-weight: 400;
     color: #000000;
     font-size: 16px;
@@ -603,7 +603,7 @@
     position: absolute;
     top: 271px;
     left: 420px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Varela Round';
     font-weight: 500;
     color: #000000;
     font-size: 20px;
@@ -634,7 +634,7 @@
     position: absolute;
     top: 271px;
     left: 979px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Varela Round';
     font-weight: 500;
     color: #000000;
     font-size: 20px;
@@ -660,7 +660,7 @@
     width: 455px;
     top: 400px;
     left: 786px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Varela Round';
     font-weight: 400;
     color: #000000;
     font-size: 16px;
@@ -673,7 +673,7 @@
     position: absolute;
     width: 1441px;
     height: 1117px;
-    top: 3623px;
+    top: 3650px;
     left: -1px;
   }
   
@@ -690,7 +690,7 @@
     position: absolute;
     top: 25px;
     left: 627px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Varela Round';
     font-weight: 500;
     color: #000000;
     font-size: 36px;
@@ -703,7 +703,7 @@
     width: 1019px;
     top: 79px;
     left: 211px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Varela Round';
     font-weight: 400;
     color: #000000;
     font-size: 16px;
@@ -726,7 +726,7 @@
     position: absolute;
     top: 684px;
     left: 620px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Varela Round';
     font-weight: 500;
     color: #000000;
     font-size: 36px;
@@ -739,7 +739,7 @@
     width: 795px;
     top: 761px;
     left: 319px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Varela Round';
     font-weight: 400;
     color: #000000;
     font-size: 16px;
@@ -797,7 +797,7 @@
     position: absolute;
     top: 57px;
     left: 613px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Varela Round';
     font-weight: 500;
     color: #000000;
     font-size: 36px;
@@ -894,7 +894,7 @@
     position: absolute;
     top: 36px;
     left: 627px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Varela Round';
     font-weight: 500;
     color: #000000;
     font-size: 36px;
@@ -916,7 +916,7 @@
   }
   
   .desktop .text-3 {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Varela Round';
     font-weight: 500;
     text-align: center;
     position: relative;
@@ -928,7 +928,7 @@
   }
   
   .desktop .text-wrapper-26 {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Varela Round';
     font-weight: 500;
     color: #000000;
     font-size: 16px;
